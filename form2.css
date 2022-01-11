@@ -1,0 +1,111 @@
+
+input{
+      line-height:normal;
+      background: none;
+      border: none;
+	border-bottom: solid 3px #474544;
+}
+#formcontainer{
+      border: solid 3px #474544;
+      max-width: 600px;
+      margin: 60px auto;
+      position: relative;
+      padding: 10px;
+}
+.formunderline {
+      margin: -0.512em auto;
+      width: 80px;
+}
+
+
+.formTwoHeadline{
+      background-color:red;
+      color:#fff;
+      font-size: 32px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-align: center;
+      margin: 5px;
+}
+.magSpan{
+      font-style: italic;
+}
+.formicon_wrapper {
+      margin: 50px auto 0;
+      width: 100%;
+}
+    
+.formname{
+      display: flex;
+      justify-content: space-between;
+}
+
+.formfirstname{
+      float: left;
+      display: grid;
+      width:45%;
+      /* justify-content: normal; */
+}
+.formlastname{
+      float: right;
+      display: grid;
+      width:45%
+}
+
+.formaddress{
+      display: grid;
+}
+
+.formsubaddressOne{
+      display: grid;
+}
+    
+.formsubaddressOne{
+      width:95%;
+}
+.formaddressdetail{
+     display:flex;
+     justify-content: space-between;
+}
+
+.formaddressdetailsubOne{
+      width:25%;
+      /* display: inline-flex; */
+      float: left;
+}
+
+.formaddressdetailsubTwo{
+      width:15%;
+      /* display: inline-flex; */
+      float:middle;
+}
+
+.formaddressdetailsubThree{
+      width:21%;
+      /* display: block; */
+      float: right;
+      overflow: hidden;
+}
+
+.fontweight{
+      font-weight:bold;
+      font-family:Arial;
+}
+
+fieldset{
+      padding-top:15px;
+      padding-left:0;
+      border:none;
+}
+  
+.forminformationoption{
+      padding: 10px;
+}
+    
+.inputfont{
+      font-family: 'Homemade Apple', cursive;
+      font-family: 'Kristi', cursive;
+      font-weight:bolder;
+      color:black;
+      font-size:32px;
+      text-align:justify;
+}

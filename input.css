@@ -1,0 +1,23 @@
+
+.header{
+      text-align: center;
+      font-size:2rem;
+      font-weight:bold;
+      text-decoration:underline;
+
+}
+
+.container{
+      /* display: column; */
+      align-items: center;
+      width: 100%;
+}
+
+.btn-margin{
+      padding:10px;
+      margin:3rem;
+      width: 35vh;
+      text-align:center;
+      line-height: 1.6;
+      justify-content:space-around;
+}
